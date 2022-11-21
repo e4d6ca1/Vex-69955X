@@ -7,15 +7,15 @@ Our Team:
 
 4/5 Freshman Team
 
-Rex Zhu - Designer/Builder
+Rex Zhu - Designer && Builder
 
-Kelly Bian - Builder
+Kelly Bian - Designer && Builder
 
-Grace Kweon - Coder/Journalist
+Grace Kweon - Coder && Journalist
 
 Saadhana Thota - Driver
 
-Isabella Huang - Babysitter/Hype
+Isabella Huang - Babysitter &&. Hype
 
 
 ||||||||
